@@ -14,8 +14,10 @@ This is a command-line application that takes information about employees,then g
 
 ## Installation
 
-To install necessary dependencies, run the following command:
-npm i
+To install necessary dependencies, run the following commands:
+
+- npm i inquirer@6.3.1
+- npm i jest
 
 ## Usage
 
